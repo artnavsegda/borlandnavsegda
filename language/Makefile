@@ -1,4 +1,4 @@
-all: namespac.exe referenc.exe func_ovr.exe def_args.exe
+all: def_args.exe func_ovr.exe namespac.exe referenc.exe
 
 .cpp.exe:
 	bcc $<
