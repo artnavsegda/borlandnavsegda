@@ -1,8 +1,6 @@
-#include <iostream>
+#include <iostream.h>
 
-using namespace std;
-
-template <typename T>
+template <class T>
 void printnum(T number)
 {
 	cout << number;
@@ -11,7 +9,9 @@ void printnum(T number)
 
 int main()
 {
-	printnum<int>(1);
-	printnum<float>(1.0);
-}
+	int inum = 1;
+	float fnum = 1.0;
 
+	printnum(inum);
+	printnum(fnum);
+}
