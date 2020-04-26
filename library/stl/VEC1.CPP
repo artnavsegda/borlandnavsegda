@@ -5,8 +5,6 @@
 // directory for more information, or send email to info@objectspace.com.
 // For an overview of STL, read the OVERVIEW.STL file in this directory.
 
-#define __MINMAX_DEFINED
-
 #include <stdlib.h>
 #include <iostream.h>
 #include <vector.h>
