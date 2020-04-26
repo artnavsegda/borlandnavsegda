@@ -3,7 +3,8 @@
 
 int main()
 {
-	list<int> v(6,42);
+	list<int> v;
+	v.push_back(44);
 	cout << "List v size is " << v.size() << endl;
 	return 0;
 }

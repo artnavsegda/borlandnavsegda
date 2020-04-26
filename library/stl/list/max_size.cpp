@@ -1,7 +1,5 @@
-#include <iostream>
-#include <list>
-
-using namespace std;
+#include <iostream.h>
+#include <list.h>
 
 int main()
 {
