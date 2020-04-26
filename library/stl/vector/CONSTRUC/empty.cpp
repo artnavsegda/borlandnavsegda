@@ -1,7 +1,5 @@
-#include <iostream>
-#include <vector>
-
-using namespace std;
+#include <iostream.h>
+#include <vector.h>
 
 int main()
 {
