@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include <iostream.h>
 
 void hello(int i = 10)
 {
-  printf("hello %d\n", i);
+  cout << "hello " << i << endl;
 }
 
 int main()
