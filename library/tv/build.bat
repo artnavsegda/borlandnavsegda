@@ -1,1 +1,1 @@
-bcc -ml -Ic:\bc4\include\tvision hello.cpp tv.lib
+bcc -ml -Ic:\bc45\include\tvision hello.cpp tv.lib
