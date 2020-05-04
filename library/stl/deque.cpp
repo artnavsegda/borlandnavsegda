@@ -1,8 +1,5 @@
-
-#include <iostream>
-#include <deque>
-
-using namespace std;
+#include <iostream.h>
+#include <deque.h>
 
 void showdq(deque <int> g)
 {
